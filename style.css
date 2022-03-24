@@ -20,3 +20,19 @@ h1{
   text-shadow: 2px 3px 4px ;
   font-size: 40px;
 }
+.box1 {
+  background-color: rgb(94, 0, 0);
+  color: rgb(3, 46, 102);
+  opacity: .5;
+  text-shadow: 2px 3p 4px #030;
+  border: 3px solid ;
+}
+
+.box2 {
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  border: 4px solid #000;
+  width: 500px;
+  border-radius: 2px 3px 4px #004;
+}
+  
