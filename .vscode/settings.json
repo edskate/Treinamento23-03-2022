@@ -1,6 +1,10 @@
 {
               "workbench.colorCustomizations": {
+<<<<<<< HEAD
                             "titleBar.activeBackground": "#53e691"
+=======
+                            "titleBar.activeBackground": "#f0bfef"
+>>>>>>> c75f425ec05a8211ed6becea43528277fdd72305
               },
               "cSpell.words": [
                             "variedades"
