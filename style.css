@@ -35,4 +35,9 @@ h1{
   width: 500px;
   border-radius: 2px 3px 4px #004;
 }
-  
+  main{
+    background-color: rgb(13, 163, 13);
+    border-radius: 10px 10px 10px ;
+    border: 7px solid rgb(204, 54, 54);
+    width: 400px;
+  }
